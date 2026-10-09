@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="130" viewBox="0 0 800 130" font-family="Segoe UI, Ubuntu, sans-serif">
   <rect x="0.5" y="0.5" width="799" height="129" rx="10" fill="#1a1b27"/>
-  <text x="115" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">4657</text>
+  <text x="115" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">4756</text>
   <text x="115" y="96" text-anchor="middle" font-size="13" fill="#38bdae">Contributi (12 mesi)</text>
-  <text x="305" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">257</text>
+  <text x="305" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">258</text>
   <text x="305" y="96" text-anchor="middle" font-size="13" fill="#38bdae">Giorni attivi</text>
-  <text x="495" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">4</text>
+  <text x="495" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">5</text>
   <text x="495" y="96" text-anchor="middle" font-size="13" fill="#38bdae">Streak attuale</text>
   <text x="685" y="68" text-anchor="middle" font-size="34" font-weight="700" fill="#70a5fd">33</text>
   <text x="685" y="96" text-anchor="middle" font-size="13" fill="#38bdae">Streak record</text>
-  <text x="400" y="121" text-anchor="middle" font-size="10" fill="#6b7089">Aggiornato il 2026-10-08</text>
+  <text x="400" y="121" text-anchor="middle" font-size="10" fill="#6b7089">Aggiornato il 2026-10-09</text>
 </svg>
